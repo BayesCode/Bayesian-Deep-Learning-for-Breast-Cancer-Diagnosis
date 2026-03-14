@@ -202,7 +202,7 @@ This makes the model more suitable for **AI-assisted medical diagnostics** where
 ### Grad-CAM Explanation
 
 <p align="center">
-  <img src="results/result 1.png" width="500">
+  <img src="result 1.png" width="500">
 </p>
 
 The Grad-CAM visualization highlights the regions of the histopathological image that contributed most strongly to the model's prediction.
@@ -212,7 +212,7 @@ The Grad-CAM visualization highlights the regions of the histopathological image
 ### Predictive Uncertainty
 
 <p align="center">
-  <img src="results/BDL uncertainty hist.png" width="500">
+  <img src="BDL uncertainty hist.png" width="500">
 </p>
 
 The uncertainty histogram shows the distribution of predictive uncertainty estimated using Monte Carlo Dropout.
@@ -222,7 +222,7 @@ The uncertainty histogram shows the distribution of predictive uncertainty estim
 ### Bayessian Deep Learning Accuracy
 
 <p align="center">
-  <img src="results/BDL acc.png" width="500">
+  <img src="BDL acc.png" width="500">
 </p>
 
 Accuracy of the model.
@@ -232,7 +232,7 @@ Accuracy of the model.
 ### Bayessian Deep Learning Confussion Matrix
 
 <p align="center">
-  <img src="results/BDL CM.png" width="500">
+  <img src="BDL CM.png" width="500">
 </p>
 
 
