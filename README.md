@@ -202,7 +202,7 @@ This makes the model more suitable for **AI-assisted medical diagnostics** where
 ### Grad-CAM Explanation
 
 <p align="center">
-  <img src="result 1.png" width="500">
+  <img src="Result 1.png" width="500">
 </p>
 
 The Grad-CAM visualization highlights the regions of the histopathological image that contributed most strongly to the model's prediction.
