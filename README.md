@@ -218,13 +218,15 @@ Potential future extensions include:
 
 ---
 
-## Author
+## Authors
 
-**Damilare Akinyemi**
-**Daniel Olofin**
-**Olajumoke Olajide**
-**Adebona Oreoluwa**
-**Obiri Wilson**
+This project was developed by:
+
+- **Damilare Akinyemi**
+- **Daniel Olofin**
+- **Olajumoke Olajide**
+- **Adebona Oreoluwa**
+- **Obiri Wilson**
 
 **Research Interests**
 
