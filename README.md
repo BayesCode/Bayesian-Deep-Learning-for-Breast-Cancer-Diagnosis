@@ -265,8 +265,9 @@ This project was developed by:
 
 - **Damilare Akinyemi**
 - **Daniel Olofin**
-- **Olajumoke Olajide**
-- **Adebona Oreoluwa**
+- **Olajumoke Abdulwahab**
+- **Oreoluwa Adebona**
+- **Olaoluwasubomi Ige Lois**
 - **Obiri Wilson**
 
 **Research Interests**
